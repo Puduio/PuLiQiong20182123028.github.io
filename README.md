@@ -5,15 +5,14 @@ You can use the [editor on GitHub](https://github.com/Puduio/Puduio.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+个人简历
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 联系方式：
+## 手机：
+### Email:
 
 - Bulleted
 - List
