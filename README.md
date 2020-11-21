@@ -30,6 +30,6 @@
 ```
 
          罩不住这时间的美好 只能装作万事顺遂的样子
-         ![image](https://github.com/Puduio/PuLiQiong20182123028.github.io/upload/main)
+         ![image](https://github.com/Puduio/PuLiQiong20182123028.github.io/blob/main/null1964b4fb29568771.jpg)
 
 
