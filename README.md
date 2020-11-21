@@ -25,10 +25,11 @@
 
 ###     个人爱好
    *   听歌、散步、打球、看动漫
-
+  
 
 ```
 
          罩不住这时间的美好 只能装作万事顺遂的样子
+         ![image](https://github.com/Puduio/PuLiQiong20182123028.github.io/upload/main)
 
 
