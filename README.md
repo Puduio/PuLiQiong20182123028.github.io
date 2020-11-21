@@ -1,6 +1,8 @@
 
 ## UML小组作业
+
 ##Github：https://puduio.github.io/PuLiQiong20182123028.github.io/
+
 ##     普丽琼 20182123028  
 
 ```
@@ -40,7 +42,7 @@
               关系和sort为包含关系。
        5.	User/Administrator 进入Code scanning alerts、可以进行automatic detection errors、security
               analysis from Maketplace.，且Code scanning alerts和automatic detection errors、security analysis
-              from Maketplace.为泛华关系。
+              from Maketplace.为泛化关系。
 
          
 
