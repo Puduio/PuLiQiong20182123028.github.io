@@ -4,21 +4,20 @@ You can use the [editor on GitHub](https://github.com/Puduio/Puduio.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 
 个人简历
 
 ```markdown
 Syntax highlighted code block
 
 # 联系方式：
-## 手机：
-### Email:
+*手机：137xxxx8434
+* Email:791xxx421@qq.com
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+#个人信息：
+*姓名/性别/出生年份
+*本科：xx大学-软件工程 2018-2022
+*Github:https://github.com/Puduio
 
 **Bold** and _Italic_ and `Code` text
 
