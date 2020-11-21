@@ -44,7 +44,7 @@
               analysis from Maketplace.，且Code scanning alerts和automatic detection errors、security analysis
               from Maketplace.为泛化关系。
 ```
-![image]()
+![image](https://github.com/Puduio/PuLiQiong20182123028.github.io/blob/main/Untitled.mdj)
          
 
 
