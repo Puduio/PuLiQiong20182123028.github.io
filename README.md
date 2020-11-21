@@ -4,22 +4,24 @@ You can use the [editor on GitHub](https://github.com/Puduio/Puduio.github.io/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 个人简历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# 联系方式
+*电话：137xxxx8434
+*Email:791xxx421@qq.com
 
-- Bulleted
-- List
+## 个人信息
+*姓名：Puduio    性别：女    民族：汉
+*学历：本科
+*毕业院校：xx大学-软件工程 2018-2022
+*Github:https://github.com.Puduio
 
-1. Numbered
-2. List
+### 个人爱好
+*  听歌、散步、打球、看动漫
 
 **Bold** and _Italic_ and `Code` text
 
